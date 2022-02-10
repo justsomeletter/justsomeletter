@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justsomeletter
 - 👀 I’m interested in Coding💻, Reading📖, Watching Animes🐷.
 - 🌱 I’m currently learning Discrete Mathematics and DSA.
-- 💞️ I’m looking to collaborate on Nothing right now.
+- 💞️ I’m looking to collaborate on projects having Javascript, HTML and CSS.
 - 📫 How to reach me Twitter: [Profile](https://twitter.com/RahOwlll) ,Quora: [Profile](https://www.quora.com/profile/Rahul-Chauhan-598).
 
 <!---
